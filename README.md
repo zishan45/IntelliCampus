@@ -1,10 +1,10 @@
 # IntelliCampus
 A project Idea that got Selected in TechSummit Hackathon.
-<br>
+<br><br>
 Thrilled to share an exciting milestone in my journey! 🚀
-<br>
+<br><br>
 I recently participated in a college-level Tech Summit Hackathon with my project idea IntelliCampus 🏫, and I’m proud to announce that my PPT has been shortlisted for the Grand Finale!
-<br>
+<br><br>
 The final round is structured in two impactful stages:<br>
 🔹 Idea Analysis & Suggestions – where experts will deeply evaluate the concept and provide valuable insights<br>
 🔹 Implementation Round – where we bring improvements to life based on those suggestions<br>

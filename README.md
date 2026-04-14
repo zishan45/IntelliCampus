@@ -1,2 +1,21 @@
 # IntelliCampus
 A project Idea that got Selected in TechSummit Hackathon.
+
+Thrilled to share an exciting milestone in my journey! 🚀
+
+I recently participated in a college-level Tech Summit Hackathon with my project idea IntelliCampus 🏫, and I’m proud to announce that my PPT has been shortlisted for the Grand Finale!
+
+The final round is structured in two impactful stages:
+🔹 Idea Analysis & Suggestions – where experts will deeply evaluate the concept and provide valuable insights
+🔹 Implementation Round – where we bring improvements to life based on those suggestions
+
+💡 About IntelliCampus:
+IntelliCampus is designed to transform the campus experience by enabling smart navigation, AI-powered assistance, and zero human dependency for finding locations within a campus. With features like QR-based navigation and an AI chatbot, it aims to make campus exploration seamless and efficient.
+
+This opportunity is not just about presenting an idea, but about refining it with expert feedback and proving its real-world impact through implementation.
+
+I’m truly excited (and a bit nervous 😄) to take this forward, learn from the process, and give my best in the final round.
+
+Grateful for this opportunity and looking forward to what’s next! 🙌
+
+#Hackathon #TechSummit #Innovation #IntelliCampus #AI #SmartCampus #StudentProjects #LearningJourney #FinalRound

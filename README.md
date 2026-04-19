@@ -1,6 +1,8 @@
 # IntelliCampus
 A project Idea that got Selected in TechSummit Hackathon.
 <br><br>
+https://var23-bit.github.io/Hackathon-IntelliCampus/
+<br><br>
 Thrilled to share an exciting milestone in my journey! 🚀
 <br><br>
 I recently participated in a college-level Tech Summit Hackathon with my project idea IntelliCampus 🏫, and I’m proud to announce that my PPT has been shortlisted for the Grand Finale!

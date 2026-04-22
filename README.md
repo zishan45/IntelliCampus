@@ -1,5 +1,5 @@
 # IntelliCampus
-A project Idea that got Selected in TechSummit Hackathon.
+A project Idea that got Selected in Final round of TechSummit Hackathon.
 <br><br>
 https://var23-bit.github.io/Hackathon-IntelliCampus/
 <br><br>

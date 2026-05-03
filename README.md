@@ -21,9 +21,9 @@ I’m truly excited (and a bit nervous 😄) to take this forward, learn from th
 Grateful for this opportunity and looking forward to what’s next! 🙌
 <br><br>
 #Hackathon #TechSummit #Innovation #IntelliCampus #AI #SmartCampus #StudentProjects #LearningJourney #FinalRound
-
-🤝 Connect With Me-
-* LinkedIn: https://Linkedin.com/in/zishanahmed45
-* GitHub: https://github.com/zishan45
-* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/
-* Email: zishanahmed.official@gmail.com
+<br><br>
+🤝 Connect With Me-<br>
+* LinkedIn: https://Linkedin.com/in/zishanahmed45 <br>
+* GitHub: https://github.com/zishan45 <br>
+* LeetCode: https://leetcode.com/u/TJ0GbrR8Fc/ <br>
+* Email: zishanahmed.official@gmail.com <br>
